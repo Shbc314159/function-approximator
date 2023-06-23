@@ -1,0 +1,6 @@
+/.lprof
+/main.build
+/main.cmd
+/main.exe
+/profile_results.prof
+/__pycache__
